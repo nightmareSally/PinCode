@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PinCode">
+        <attr name="text_number" format="integer" />
+        <attr name="interval_spacing" format="dimension" />
+        <attr name="text_background" format="reference|color" />
+        <attr name="text_padding_vertical" format="dimension" />
+        <attr name="text_background_focus" format="reference|color" />
+        <attr name="text_background_error" format="reference|color" />
+    </declare-styleable>
+</resources>
